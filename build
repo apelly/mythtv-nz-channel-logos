@@ -1,0 +1,12 @@
+#!/bin/bash
+originals=Original
+four_to_three=4:3
+one_to_one=1:1
+
+for image in $originals/*.png
+do
+   echo Converting $image...
+   convert "${image}" -background transparent -gravity center -resize 520x390 -extent 528x396 -flatten "$four_to_three/`basename "${image}"`"
+   convert "${image}" -background transparent -gravity center -resize 520x520 -extent 528x528 -flatten "$one_to_one/`basename "${image}"`"
+done
+echo Done.
