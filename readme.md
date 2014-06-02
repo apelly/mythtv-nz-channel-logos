@@ -30,4 +30,7 @@ http://www.georgefm.co.nz/Portals/0/skins/2014/images/george-logo.png<br>
 http://tvnz.co.nz/planit-toolbox/tvnz-logos-3083642<br>
 http://images.tvnz.co.nz/tvnz_images/planit/opportunities/week_34/Solid%20Red_ONE.jpg<br>
 http://www.lyngsat-logo.com/hires/cc/choice_tv_nz.png<br>
+http://www.chineseyearbook.co.nz/product.asp?id=1059<br>
+http://images.tvnz.co.nz/tvnz_images/ondemand_shows/CTV8/<br>
+http://dannews.co.nz/2012/06/01/new-christian-channel-to-launch-on-freeview/<br>
 
